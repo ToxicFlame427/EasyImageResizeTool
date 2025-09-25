@@ -1,0 +1,8 @@
+E:\Production\Windows\EZResizeTool\bin\Debug\EZResizeTool.exe.config
+E:\Production\Windows\EZResizeTool\bin\Debug\EZResizeTool.exe
+E:\Production\Windows\EZResizeTool\bin\Debug\EZResizeTool.pdb
+E:\Production\Windows\EZResizeTool\obj\Debug\EZResizeTool.csproj.AssemblyReference.cache
+E:\Production\Windows\EZResizeTool\obj\Debug\EZResizeTool.csproj.SuggestedBindingRedirects.cache
+E:\Production\Windows\EZResizeTool\obj\Debug\EZResizeTool.csproj.CoreCompileInputs.cache
+E:\Production\Windows\EZResizeTool\obj\Debug\EZResizeTool.exe
+E:\Production\Windows\EZResizeTool\obj\Debug\EZResizeTool.pdb

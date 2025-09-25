@@ -1,0 +1,9 @@
+215
+215
+LOW
+
+Use this text document to determine your resize values.
+The top number is width, and the bottom number is height. THEY DO NOT SWITCH ROLES!!!!
+
+WARNING: Do not remove either of the first two lines! Only replace the exiting numbers with other numbers.
+By removing the two numbers, the program with crash.
